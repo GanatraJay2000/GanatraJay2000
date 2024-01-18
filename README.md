@@ -1,33 +1,38 @@
 ---
 # JAY BIPIN GANATRA
 
-#### 🤖 _**Hello World!** I'm Jay Ganatra, a code aficionado on a mission to conquer the tech universe, one line of code at a time. As a Master's student in Computer Science at Syracuse University, I've mastered the art of turning caffeine into code and sleepless nights into bug fixes._
+#### 👋 _**Greetings!** I'm Jay Ganatra, a diligent coder navigating the ever-evolving tech landscape. Currently pursuing a Master's in Computer Science at Syracuse University, I enjoy unraveling the complexities of code and turning them into impactful solutions._
 
-##### 📱 [jganatra@syr.edu](mailto:jganatra@syr.edu) | 🔗 [LinkedIn](https://www.linkedin.com/in/jay-ganatra) | 🌐 [My Coding Playground](https://jayganatra.com/) | ☎️ +1 680 697 5622
+##### 📧 [jganatra@syr.edu](mailto:jganatra@syr.edu) | 🔗 [LinkedIn](https://www.linkedin.com/in/jay-ganatra) | 🌐 [Coding Odyssey](https://jayganatra.com/) | ☎️ +1 680 697 5622
 
 ## 🚀 Introduction
 
-In the vast realm of algorithms and frameworks, I'm the unsung hero who turns "404 Not Found" into "200 OK." While pursuing my Bachelor's at Mumbai University, I didn't just major in Information Technology; I majored in the art of googling error messages.
+In the world of ones and zeros, I find joy in crafting elegant code and meaningful applications. Originating from the vibrant streets of Mumbai, my coding journey led me to Syracuse University, where I'm deepening my understanding of Computer Science. From deciphering cryptic codes to building user-friendly interfaces, I've embraced the diverse challenges that the tech realm offers.
 
-My stint as a Teaching Assistant at Syracuse University was like being a code whisperer for 80 students in Intro. to Cryptography. Yes, I've seen my fair share of cryptographic mysteries and emerged unscathed, ready for the next debugging adventure.
+## 💻 Technical Toolkit
 
-As a Software Development Intern at SQOR Technologies, I danced with React.js, battled AWS Cognito, and tamed Docker beasts. I optimized website performance, making load times bow down by 15%, because who has time for slow websites, right?
-
-## 💻 Technical Wizardry
-
-My spellbook includes incantations in JavaScript, TypeScript, Java, Kotlin, Python, and more. I've danced with frameworks like React.js, Next.js, Vue.js, and even flirted with Flutter. Databases fear my SQL queries, and the cloud is my second home.
+Explore my proficiency in languages such as JavaScript, TypeScript, Java, Kotlin, Python, and more. I wield frameworks like React.js, Vue.js, and Flutter with finesse. SQL databases bow to my queries, and the cloud is a realm I comfortably navigate.
 
 ## 🚧 Projects
 
-- **Campus Shuttle Pilot Project:** Turned a mundane shuttle into a well-oiled machine with Java, Spring, and a sprinkle of optimization magic.
-  
-- **TravelEase:** Crafted an Android travel companion app with Kotlin, making wanderlust meet code lust.
+- **Campus Shuttle Pilot Project:** Implemented enhancements to a shuttle system using Java, Spring, optimizing efficiency and user experience.
 
-- **Real-time Tweet Emotion Analysis System:** Brought emotions to tweets with Python, Flask, and a touch of Tailwind CSS flair.
+- **TravelEase:** Developed a user-friendly Android travel companion app with Kotlin, offering features like itinerary planning and real-time navigation.
+
+- **Real-time Tweet Emotion Analysis System:** Created a Python-based system for analyzing tweet emotions, fostering user engagement with Flask and Tailwind CSS.
 
 ## 🤓 GitHub Chronicles
 
-Dive into my GitHub repo [GanatraJay2000](https://github.com/GanatraJay2000) and witness the chronicles of a developer navigating the code jungle. Spoiler alert: There might be more coffee stains than stars.
 
-Let's code together and turn bugs into features, because life is too short for unhandled exceptions! 💻🚀
----
+<a href="https://github.com/GanatraJay2000">
+<img height="250em" src="https://github-readme-streak-stats.herokuapp.com?user=GanatraJay2000&hide_border=true&mode=weekly&card_width=500" alt="ganatrajay2000"/>
+</a>
+
+
+Visit my GitHub repository [GanatraJay2000](https://github.com/GanatraJay2000) to witness my coding journey. Expect more coffee stains than stars, as I navigate the intricate world of development.
+
+Let's collaborate and transform bugs into features, because, in the realm of code, every challenge is an opportunity! 💻🚀
+
+![](https://komarev.com/ghpvc/?username=ganatrajay2000&style=flat&color=828bed)
+
+
