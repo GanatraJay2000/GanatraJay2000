@@ -23,7 +23,7 @@ Explore my proficiency in languages such as JavaScript, TypeScript, Java, Kotlin
 
 ## 🤓 GitHub Chronicles
 
-<img height="250em" src="https://github-readme-streak-stats.herokuapp.com?user=GanatraJay2000&hide_border=true&mode=daily&card_width=500" alt="ganatrajay2000"/>
+<img height="250em" src="https://github-readme-streak-stats.herokuapp.com?user=GanatraJay2000&hide_border=true&mode=daily&card_width=500&base=934" alt="ganatrajay2000"/>
 
 
 Visit my GitHub repository [GanatraJay2000](https://github.com/GanatraJay2000) to witness my coding journey. Expect more coffee stains than stars, as I navigate the intricate world of development.
