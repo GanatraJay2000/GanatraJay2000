@@ -30,6 +30,6 @@ Visit my GitHub repository [GanatraJay2000](https://github.com/GanatraJay2000) t
 
 Let's collaborate and transform bugs into features, because, in the realm of code, every challenge is an opportunity! 💻🚀
 
-![](https://komarev.com/ghpvc/?username=ganatrajay2000&style=flat&color=828bed&base=934)
+![](https://komarev.com/ghpvc/?username=ganatrajay2000&style=flat&color=828bed&base=348)
 
 
