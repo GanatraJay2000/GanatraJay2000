@@ -25,7 +25,7 @@ Explore my proficiency in languages such as JavaScript, TypeScript, Java, Kotlin
 
 
 <a href="https://github.com/GanatraJay2000">
-<img height="250em" src="https://github-readme-streak-stats.herokuapp.com?user=GanatraJay2000&hide_border=true&mode=daily&card_width=500" alt="ganatrajay2000"/>
+<img height="250em" src="https://github-readme-streak-stats.herokuapp.com?user=GanatraJay2000&hide_border=true&mode=daily&exclude_days=Sun%2CSat&card_width=500" alt="ganatrajay2000"/>
 </a>
 
 
