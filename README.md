@@ -3,7 +3,7 @@
 
 #### _**Hi** 👋, I'm Jay Ganatra, a diligent coder navigating the ever-evolving tech landscape. Currently pursuing a Master's in Computer Science at Syracuse University, I enjoy unraveling the complexities of code and turning them into impactful solutions._
 
-##### [<img width="21px" src="https://static.wikia.nocookie.net/logopedia/images/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg/revision/latest?cb=20190927105733">](mailto:jganatra@syr.edu) &nbsp; [<img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="21px">](https://www.linkedin.com/in/jay-ganatra) &nbsp; [<img width="21px" src="https://github.com/GanatraJay2000/GanatraJay2000/assets/48404617/a9bdde20-033f-4e01-a5d7-df127fa78c57">](https://jayganatra.com/) &nbsp; &nbsp; &nbsp; 
+##### [<img width="21px" src="https://github.com/GanatraJay2000/GanatraJay2000/assets/48404617/187a550e-046d-46ea-92cf-833b0fad3747">](mailto:jganatra@syr.edu) &nbsp; [<img src="https://github.com/GanatraJay2000/GanatraJay2000/assets/48404617/9d682060-2dfe-485f-aabd-41b300451ccb" width="21px">](https://www.linkedin.com/in/jay-ganatra) &nbsp; [<img width="21px" src="https://github.com/GanatraJay2000/GanatraJay2000/assets/48404617/a9bdde20-033f-4e01-a5d7-df127fa78c57">](https://jayganatra.com/) &nbsp; &nbsp; &nbsp; 
 [<img width="21px" src="https://github.com/GanatraJay2000/GanatraJay2000/assets/48404617/c4a160d5-334f-46d3-92f6-f0c6bf6acfcf">](tel:+16906975622) +1 680 697 5622
 
 ## 🚀 Introduction
