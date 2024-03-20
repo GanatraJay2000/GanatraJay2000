@@ -85,6 +85,6 @@ Visit my Profile [jayganatra.com](https://www.jayganatra.com) to witness my codi
 
 Let's collaborate and transform bugs into features, because, in the realm of code, every challenge is an opportunity! 💻🚀
 
-![](https://komarev.com/ghpvc/?username=ganatrajay2000&style=flat&color=828bed&base=348)
+![](https://komarev.com/ghpvc/?username=ganatrajay2000&style=flat&color=828bed&base=548)
 
 
