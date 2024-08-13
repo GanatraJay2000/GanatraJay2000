@@ -76,6 +76,16 @@ Explore my proficiency in languages such as JavaScript, TypeScript, Java, Kotlin
 
 
 ## 🤓 GitHub Chronicles
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GanatraJay2000/GanatraJay2000/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GanatraJay2000/GanatraJay2000/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GanatraJay2000/GanatraJay2000/output/github-contribution-grid-snake.svg">
+</picture>
+
+
+<p></p>
+
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ganatrajay2000&show_icons=true&locale=en&layout=compact" alt="ganatrajay2000" /></p>
 
 <img height="250em" src="https://github-readme-streak-stats.herokuapp.com?user=GanatraJay2000&hide_border=true&mode=daily&card_width=500" alt="ganatrajay2000"/>
