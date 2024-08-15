@@ -3,21 +3,24 @@
 
 <details style="background:red;">
 <summary>more</summary>
+<p align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></p>
+<h3 align="center">Hi there! Im Jay B Ganatra</h3>
 
-<h1 align="center">Jay B Ganatra</h1>
 <p align="center">
   <a href="https://www.jayganatra.com">Website</a> • 
   <a href="https://www.linkedin.com/in/jay-ganatra/">LinkedIn</a> • 
   <a href="https://dev.to/ganatrajay2000">Blog</a> • 
-  <a href="mailto:ganatrajay2000@gmail.com">Mail</a>
-</p>
-<p align="center">New York, NY, USA</p>
+  <a href="mailto:ganatrajay2000@gmail.com">Mail</a>  • New York, NY, USA</p>
 
 <details>
 <summary align="right">Resume</summary>
   <img align="center" width="100%" alt="🦑" src="/resume.svg">
 </details>
-  ---
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+Jay
 <!--
 # JAY BIPIN GANATRA
 
