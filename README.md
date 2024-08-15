@@ -4,8 +4,21 @@
 <details style="background:red;">
 <summary>more</summary>
 
-  ---
+<h1 align="center">Jay B Ganatra</h1>
+<p align="center">
+  <a href="https://www.jayganatra.com">Website</a> • 
+  <a href="https://www.linkedin.com/in/jay-ganatra/">LinkedIn</a> • 
+  <a href="https://dev.to/ganatrajay2000">Blog</a> • 
+  <a href="mailto:ganatrajay2000@gmail.com">Mail</a>
+</p>
+<p align="center">New York, NY, USA</p>
 
+<details>
+<summary align="right">Resume</summary>
+  <img align="center" width="100%" alt="🦑" src="/resume.svg">
+</details>
+  ---
+<!--
 # JAY BIPIN GANATRA
 
 #### _**Hi** 👋, I'm Jay Ganatra, a diligent coder navigating the ever-evolving tech landscape. Currently pursuing a Master's in Computer Science at Syracuse University, I enjoy unraveling the complexities of code and turning them into impactful solutions._
