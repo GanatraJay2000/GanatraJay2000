@@ -1,4 +1,11 @@
----
+<p align="center"><i>“Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.”</i></p>
+<p align="center"><i>- Aaron Swartz -</i></p>
+
+<details style="background:red;">
+<summary>more</summary>
+
+  ---
+
 # JAY BIPIN GANATRA
 
 #### _**Hi** 👋, I'm Jay Ganatra, a diligent coder navigating the ever-evolving tech landscape. Currently pursuing a Master's in Computer Science at Syracuse University, I enjoy unraveling the complexities of code and turning them into impactful solutions._
@@ -98,3 +105,4 @@ Let's collaborate and transform bugs into features, because, in the realm of cod
 ![](https://komarev.com/ghpvc/?username=ganatrajay2000&style=flat&color=828bed&base=548)
 
 
+</details>
