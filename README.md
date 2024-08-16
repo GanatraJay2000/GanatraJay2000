@@ -23,8 +23,10 @@
 <p>&nbsp;</p>
 
 Laptop Restarted during edit 😭!
+
 <p>&nbsp;</p>
 <p>&nbsp;</p>
+
 <!--
 # JAY BIPIN GANATRA
 
@@ -112,7 +114,6 @@ Explore my proficiency in languages such as JavaScript, TypeScript, Java, Kotlin
 
 
 <p></p>
-
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ganatrajay2000&show_icons=true&locale=en&layout=compact" alt="ganatrajay2000" /></p>
 
