@@ -1,8 +1,3 @@
-<p align="center"><i>“Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.”</i></p>
-<p align="center"><i>- Aaron Swartz -</i></p>
-
-<details style="background:red;">
-<summary>more</summary>
 <p align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></p>
 <h3 align="center">Hi there! Im Jay B Ganatra</h3>
 
@@ -16,11 +11,16 @@
 <summary align="right">Resume</summary>
   <img align="center" width="100%" alt="🦑" src="/resume.svg">
 </details>
+<details>
+<summary>more</summary>
+<p align="center"><i>“Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.”</i></p>
+<p align="center"><i>- Aaron Swartz -</i></p>
+</details>
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-Jay
+Laptop Restarted during edit 😭!
 <!--
 # JAY BIPIN GANATRA
 
@@ -120,5 +120,3 @@ Let's collaborate and transform bugs into features, because, in the realm of cod
 
 ![](https://komarev.com/ghpvc/?username=ganatrajay2000&style=flat&color=828bed&base=548)
 
-
-</details>
