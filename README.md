@@ -12,7 +12,7 @@
   <img align="center" width="100%" alt="🦑" src="/resume.svg">
 </details>
 <details>
-<summary>more</summary>
+<summary>Awesome Quote <---- Click Here!!</summary>
 <p align="center"><i>“Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.”</i></p>
 <p align="center"><i>- Aaron Swartz -</i></p>
 </details>
