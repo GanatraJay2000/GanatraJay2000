@@ -1,5 +1,6 @@
+<img src="/banner.png" align="center">
 <p align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></p>
-<h3 align="center">Hi there! Im Jay B Ganatra</h3>
+<h3 align="center">Hi there! Im Jay</h3>
 
 <p align="center">
   <a href="https://www.jayganatra.com">Website</a> • 
