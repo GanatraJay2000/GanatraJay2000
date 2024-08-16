@@ -23,6 +23,8 @@
 <p>&nbsp;</p>
 
 Laptop Restarted during edit 😭!
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 <!--
 # JAY BIPIN GANATRA
 
@@ -99,6 +101,7 @@ Explore my proficiency in languages such as JavaScript, TypeScript, Java, Kotlin
 - **Real-time Tweet Emotion Analysis System:** Created a Python-based system for analyzing tweet emotions, fostering user engagement with Flask and Tailwind CSS.
 
 
+-->
 
 ## 🤓 GitHub Chronicles
 <picture>
@@ -118,7 +121,6 @@ Explore my proficiency in languages such as JavaScript, TypeScript, Java, Kotlin
 
 Visit my Profile [jayganatra.com](https://www.jayganatra.com) to witness my coding journey. Expect more coffee stains than stars, as I navigate the intricate world of development.
 
-Let's collaborate and transform bugs into features, because, in the realm of code, every challenge is an opportunity! 💻🚀
 
 ![](https://komarev.com/ghpvc/?username=ganatrajay2000&style=flat&color=828bed&base=548)
 
