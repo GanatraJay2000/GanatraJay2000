@@ -3,9 +3,10 @@
 <h3 align="center">Hi there! Im Jay</h3>
 
 <p align="center">
+  <span>+1 (680) 697-5622</span> • 
   <a href="https://www.jayganatra.com">Website</a> • 
   <a href="https://www.linkedin.com/in/jay-ganatra/">LinkedIn</a> • 
-  <a href="https://dev.to/ganatrajay2000">Blog</a> • 
+  <a href="https://dev.to/ganatrajay2000">Dev.to</a> • 
   <a href="https://codepen.io/GanatraJay">CodePen</a> • 
   <a href="https://showcase.jayganatra.com/">Personal Showcase</a> • 
   <a href="mailto:ganatrajay2000@gmail.com">Mail</a>  • New York, NY, USA</p>
@@ -22,7 +23,7 @@
 </details>
 
 <p>&nbsp;</p>
-<p>&nbsp;</p>
+
 
 <p>You can see my creativity here 😜 (My way of trying latest trends out; also a gallery for some of my favorite fonts that just keeps growing)</p>
 <ol>
@@ -30,6 +31,8 @@
   <li><a href="https://anim.jayganatra.com" target="_blank">anim.jayganatra.com</a></li>
 </ol>
 
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 <!--
 
