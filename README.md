@@ -6,6 +6,8 @@
   <a href="https://www.jayganatra.com">Website</a> • 
   <a href="https://www.linkedin.com/in/jay-ganatra/">LinkedIn</a> • 
   <a href="https://dev.to/ganatrajay2000">Blog</a> • 
+  <a href="https://codepen.io/GanatraJay">CodePen</a> • 
+  <a href="https://showcase.jayganatra.com/">Personal Showcase</a> • 
   <a href="mailto:ganatrajay2000@gmail.com">Mail</a>  • New York, NY, USA</p>
 
 <details>
@@ -22,15 +24,14 @@
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-Laptop Restarted during edit 😭!
+<p>You can see my creativity here 😜 (My way of trying latest trends out; also a gallery for some of my favorite fonts that just keeps growing)</p>
+<ol>
+  <li><a href="https://creative.jayganatra.com" target="_blank">creative.jayganatra.com</a></li>
+  <li><a href="https://anim.jayganatra.com" target="_blank">anim.jayganatra.com</a></li>
+</ol>
 
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 
 <!--
-# JAY BIPIN GANATRA
-
-#### _**Hi** 👋, I'm Jay Ganatra, a diligent coder navigating the ever-evolving tech landscape. Currently pursuing a Master's in Computer Science at Syracuse University, I enjoy unraveling the complexities of code and turning them into impactful solutions._
 
 ##### [<img width="21px" src="https://github.com/GanatraJay2000/GanatraJay2000/assets/48404617/187a550e-046d-46ea-92cf-833b0fad3747">](mailto:jganatra@syr.edu) &nbsp; [<img src="https://github.com/GanatraJay2000/GanatraJay2000/assets/48404617/9d682060-2dfe-485f-aabd-41b300451ccb" width="21px">](https://www.linkedin.com/in/jay-ganatra) &nbsp; [<img width="21px" src="https://github.com/GanatraJay2000/GanatraJay2000/assets/48404617/a9bdde20-033f-4e01-a5d7-df127fa78c57">](https://jayganatra.com/) &nbsp; &nbsp; &nbsp; 
 [<img width="21px" src="https://github.com/GanatraJay2000/GanatraJay2000/assets/48404617/c4a160d5-334f-46d3-92f6-f0c6bf6acfcf">](tel:+16906975622) +1 680 697 5622
@@ -94,13 +95,6 @@ Explore my proficiency in languages such as JavaScript, TypeScript, Java, Kotlin
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg" alt="xd" width="20" height="20"/>   
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/36/Logo.min.svg" alt="laravel" width="20" height="20"/>  </p>
 
-## 🚧 Projects
-
-- **Campus Shuttle Pilot Project:** Implemented enhancements to a shuttle system using Java, Spring, optimizing efficiency and user experience.
-
-- **TravelEase:** Developed a user-friendly Android travel companion app with Kotlin, offering features like itinerary planning and real-time navigation.
-
-- **Real-time Tweet Emotion Analysis System:** Created a Python-based system for analyzing tweet emotions, fostering user engagement with Flask and Tailwind CSS.
 
 
 -->
@@ -114,12 +108,6 @@ Explore my proficiency in languages such as JavaScript, TypeScript, Java, Kotlin
 
 
 <p></p>
-
-<!--
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ganatrajay2000&show_icons=true&locale=en&layout=compact" alt="ganatrajay2000" /></p>
-
--->
 
 <p align="center">
 <img align="center" height="250em" src="https://github-readme-streak-stats.herokuapp.com?user=GanatraJay2000&hide_border=true&mode=daily&card_width=500" alt="ganatrajay2000"/>
