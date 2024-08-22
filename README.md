@@ -9,7 +9,9 @@
   <a href="https://dev.to/ganatrajay2000">Dev.to</a> • 
   <a href="https://codepen.io/GanatraJay">CodePen</a> • 
   <a href="https://showcase.jayganatra.com/">Personal Showcase</a> • 
-  <a href="mailto:ganatrajay2000@gmail.com">Mail</a>  • New York, NY, USA</p>
+  <a href="mailto:ganatrajay2000@gmail.com">Mail</a>  • 
+  <span>New York, NY, USA</span>
+</p>
 
 <details>
 <summary align="right">Resume</summary>
