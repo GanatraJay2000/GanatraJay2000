@@ -15,7 +15,7 @@
 
 <details>
 <summary align="right">Resume</summary>
-  <img align="center" width="100%" alt="Resume" src="/resume.svg">
+  <img align="center" width="100%" alt="Resume SVG" src="">
 </details>
 <details>
 <summary>Quote</summary>
