@@ -1,5 +1,5 @@
 <img src="/banner.png" align="center">
-<p align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></p>
+<p align="center"><img alt="" src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></p>
 <h3 align="center">Hi there! Im Jay</h3>
 
 <p align="center">
