@@ -1,3 +1,7 @@
+```
+hi
+```
+<!--
 <img src="/banner.png" align="center">
 <p align="center"><img alt="" src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></p>
 <h3 align="center">Hi there! Im Jay</h3>
@@ -102,7 +106,7 @@ Explore my proficiency in languages such as JavaScript, TypeScript, Java, Kotlin
 
 
 
--->
+
 
 ## 🤓 GitHub Chronicles
 <picture>
