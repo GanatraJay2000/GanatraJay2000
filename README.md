@@ -6,6 +6,13 @@ hi
   <li><a href="https://creative.jayganatra.com" target="_blank">creative.jayganatra.com</a></li>
   <li><a href="https://anim.jayganatra.com" target="_blank">anim.jayganatra.com</a></li>
 </ol>
+
+<details>
+<summary>Quote</summary>
+<p>&nbsp;</p>
+<p align="center"><i>“Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.”</i></p>
+<p align="center"><i>- Aaron Swartz -</i></p>
+</details>
 <!--
 <img src="/banner.png" align="center">
 <p align="center"><img alt="" src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></p>
